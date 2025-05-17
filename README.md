@@ -1,6 +1,6 @@
 Hi, I'm Surender
 
-# 💫 About Me:
+# About Me:
 A full-stack engineer focusing on backend development, with experience in Python, Node.js, React.js and cloud technologies.
 
 
