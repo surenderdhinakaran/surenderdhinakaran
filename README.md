@@ -14,6 +14,14 @@ A full-stack engineer focusing on backend development, with experience in Python
 ![](https://nirzak-streak-stats.vercel.app/?user=surenderdhinakaran&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surenderdhinakaran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surenderdhinakaran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
