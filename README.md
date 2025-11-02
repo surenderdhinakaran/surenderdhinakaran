@@ -48,10 +48,10 @@ Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | MLflow
 ---
 
 ### 🌍 Connect With Me
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/surenderd/)
 - 🐦 [Twitter / X](#)
 - 🧑‍💻 [Portfolio / Website](#)
-- 📫 **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 **[surender.dhinakaran@gmail.com](surender.dhinakaran@gmail.com)**
 
 ---
 
